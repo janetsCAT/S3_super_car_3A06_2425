@@ -1,0 +1,32 @@
+{
+    "name": "super_carrr",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.4.6",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v7.0.57",
+        "tag": "v7.0.57",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/1a9e10ee33883477990f6bc7451dae38318586e3",
+        "target": "7.0.61",
+        "pxt": "11.1.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
